@@ -1,8 +1,8 @@
 class Jwx < Formula
   desc "A beautiful CLI for working with JSON Web Tokens"
   homepage "https://github.com/manimovassagh/jwx"
-  url "https://github.com/manimovassagh/jwx/archive/refs/tags/v1.2.3.tar.gz"
-  sha256 "9179e2f63bc9734afccc6b4984923af8a22b0039341bda045f84000361333393"
+  url "https://github.com/manimovassagh/jwx/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "7a4e74e20ed14a41fc31d8951a88d1951b64b50e2dbe19c15942362181cf7627"
   license "MIT"
 
   depends_on "go" => :build
